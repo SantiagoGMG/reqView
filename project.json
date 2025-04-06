@@ -1,0 +1,13 @@
+{
+  "id": "ProyectoEjemploSRS",
+  "description": "proyecto de ejemplo",
+  "documents": [
+    "SRS.json"
+  ],
+  "traceability": {
+  },
+  "metadata": {
+    "format": "2.20",
+    "saveHistory": true
+  }
+}
