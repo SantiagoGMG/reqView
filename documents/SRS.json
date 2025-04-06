@@ -2,14 +2,14 @@
   "id": "SRS",
   "guid": "19fe7666-39fb-46f8-bcbd-7d40a04a5ce8",
   "name": "Software Requirements Specification",
-  "lastId": 31,
+  "lastId": 32,
   "createdOn": "2025-04-06T00:43:25.171Z",
   "createdBy": {
     "name": "Santiago",
     "email": "al064489@uacam.mx",
     "company": "UAC"
   },
-  "lastChangedOn": "2025-04-06T00:43:25.171Z",
+  "lastChangedOn": "2025-04-06T00:50:40.857Z",
   "lastChangedBy": {
     "name": "Santiago",
     "email": "al064489@uacam.mx",
@@ -29,7 +29,38 @@
           "guid": "3cf09a4a-dfee-4c5a-a54e-31435085fbb1",
           "heading": "Purpose",
           "helpRef": "9.6.2",
-          "type": "SEC"
+          "type": "SEC",
+          "children": [
+            {
+              "id": "32",
+              "guid": "313f97cc-7b90-45c6-b9a0-3f7768da1985",
+              "text": "<p>El propósito de este proyecto es ...</p>",
+              "history": [
+                {
+                  "affectedNodeId": "2",
+                  "changedBy": {
+                    "company": "UAC",
+                    "email": "al064489@uacam.mx",
+                    "name": "Santiago"
+                  },
+                  "changedOn": "2025-04-06T00:50:26.916Z",
+                  "docId": "SRS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "UAC",
+                    "email": "al064489@uacam.mx",
+                    "name": "Santiago"
+                  },
+                  "changedOn": "2025-04-06T00:50:40.857Z"
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "3",
