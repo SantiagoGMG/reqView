@@ -2,14 +2,14 @@
   "id": "SRS",
   "guid": "19fe7666-39fb-46f8-bcbd-7d40a04a5ce8",
   "name": "Software Requirements Specification",
-  "lastId": 32,
+  "lastId": 33,
   "createdOn": "2025-04-06T00:43:25.171Z",
   "createdBy": {
     "name": "Santiago",
     "email": "al064489@uacam.mx",
     "company": "UAC"
   },
-  "lastChangedOn": "2025-04-06T00:50:40.857Z",
+  "lastChangedOn": "2025-04-06T00:54:38.893Z",
   "lastChangedBy": {
     "name": "Santiago",
     "email": "al064489@uacam.mx",
@@ -181,7 +181,38 @@
           "guid": "af838ab4-07d9-4690-b55c-2d1e3f11302e",
           "heading": "Acronyms and abbreviations",
           "helpRef": "9.2.5",
-          "type": "SEC"
+          "type": "SEC",
+          "children": [
+            {
+              "id": "33",
+              "guid": "30d2854d-1e2a-4ef9-8752-049720581f7e",
+              "text": "<p>DB: Data base</p>",
+              "history": [
+                {
+                  "affectedNodeId": "19",
+                  "changedBy": {
+                    "company": "UAC",
+                    "email": "al064489@uacam.mx",
+                    "name": "Santiago"
+                  },
+                  "changedOn": "2025-04-06T00:54:26.091Z",
+                  "docId": "SRS",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "UAC",
+                    "email": "al064489@uacam.mx",
+                    "name": "Santiago"
+                  },
+                  "changedOn": "2025-04-06T00:54:38.893Z"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
